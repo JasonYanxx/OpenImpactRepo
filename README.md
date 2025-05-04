@@ -4,6 +4,7 @@
     -   [Prerequisites](#prerequisites)
     -   [Setup Steps](#setup-steps)
 -   [Usage](#usage)
+-   [LICENSE](#license)
 
 
 ## Introduction
@@ -23,3 +24,7 @@ You need Python...
 
 ## Usage
 python hello.py
+
+## License
+This project is licensed under the [MIT License](LICENSE).  Copyright (c) [2025] [Jason Yan/Organization]. See the [LICENSE](LICENSE) file for details.
+
